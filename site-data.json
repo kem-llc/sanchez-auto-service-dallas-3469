@@ -2,282 +2,286 @@
   "business": {
     "name": "Sanchez Auto Service",
     "shortName": "Sanchez Auto",
-    "tagline": "Trusted Auto Repair in Dallas Since 1995",
+    "tagline": "Dallas's Trusted Auto Repair Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 324-3469",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:30 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
     "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Sanchez Auto Service | Expert Auto Mechanic in Dallas, TX",
-    "description": "Sanchez Auto Service in Dallas, TX offers professional auto repair, diagnostics, brake service, and more. Family-owned since 1995. Call (214) 324-3469 today!"
+    "title": "Sanchez Auto Service | Expert Auto Repair in Dallas, TX",
+    "description": "Sanchez Auto Service in Dallas, TX provides expert auto repair, maintenance, and diagnostics. Trust our certified mechanics for quality service. Call (214) 324-3469 today."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair",
-      "headline": "Expert Auto Mechanic Serving Dallas, TX",
-      "subheadline": "Reliable, honest automotive service backed by decades of experience.",
-      "primaryCta": "Schedule Appointment",
-      "secondaryCta": "Learn More"
+      "eyebrow": "Family-Owned & Operated Since 1985",
+      "headline": "Dallas's Most Reliable Auto Repair & Maintenance",
+      "subheadline": "Expert mechanics, honest service, and affordable prices for all makes and models.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (214) 324-3469"
     },
     "stats": [
       {
-        "value": "25+",
-        "label": "Years in Business"
+        "value": "35+",
+        "label": "Years of Experience"
       },
       {
         "value": "5,000+",
         "label": "Vehicles Serviced"
       },
       {
-        "value": "4.8",
-        "label": "Average Customer Rating"
+        "value": "98%",
+        "label": "Customer Satisfaction"
       },
       {
-        "value": "100%",
-        "label": "Satisfaction Guarantee"
+        "value": "4.9",
+        "label": "Google Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality Service",
-        "title": "Comprehensive Auto Repair & Maintenance",
-        "body": "From routine oil changes to complex engine diagnostics, Sanchez Auto Service handles it all with precision and care.",
+        "eyebrow": "Comprehensive Diagnostics",
+        "title": "Advanced Computer Diagnostics for Accurate Repairs",
+        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately, saving you time and money.",
         "bullets": [
-          "Advanced diagnostic equipment",
-          "Certified technicians",
-          "Transparent pricing"
+          "OEM-level scan tools for all makes",
+          "Detailed report with photos",
+          "No guesswork – we fix it right the first time"
         ],
         "reverse": false,
-        "cardLabel": "Why Choose Us",
-        "cardTitle": "Honest Assessments",
-        "cardBody": "We provide detailed explanations and upfront estimates so you know exactly what your car needs."
+        "cardLabel": "Transparency",
+        "cardTitle": "You'll Know Before We Start",
+        "cardBody": "We explain every recommended repair and get your approval before any work begins."
       },
       {
-        "eyebrow": "Customer Focus",
-        "title": "Your Satisfaction Is Our Priority",
-        "body": "We treat every customer like family, ensuring a stress-free experience from drop-off to pick-up.",
+        "eyebrow": "Preventive Maintenance",
+        "title": "Keep Your Car Running Smoothly with Regular Service",
+        "body": "From oil changes to timing belt replacements, our preventive maintenance plans extend the life of your vehicle.",
         "bullets": [
-          "Free multi-point inspections",
-          "Shuttle service available",
-          "Online appointment scheduling"
+          "Oil changes, fluid flushes, and filter replacements",
+          "Tire rotations and brake inspections",
+          "Scheduled maintenance per manufacturer guidelines"
         ],
         "reverse": true,
-        "cardLabel": "Our Promise",
-        "cardTitle": "Workmanship Guarantee",
-        "cardBody": "All repairs come with a comprehensive warranty for your peace of mind."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Warranty-Backed Service",
+        "cardBody": "All parts and labor come with a 24-month/24,000-mile warranty."
       }
     ],
-    "whyTitle": "Why Sanchez Auto Service?",
+    "whyTitle": "Why Choose Sanchez Auto Service?",
     "whyChooseUs": [
       {
-        "title": "Experienced Team",
-        "description": "Our mechanics have an average of 15 years of experience, ensuring expert care for your vehicle."
+        "title": "Certified Technicians",
+        "description": "Our ASE-certified mechanics have decades of combined experience."
       },
       {
-        "title": "Fair Pricing",
-        "description": "No hidden fees or surprise charges. We offer competitive rates with detailed estimates upfront."
+        "title": "Honest Pricing",
+        "description": "We provide upfront estimates with no hidden fees."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most repairs completed same-day. We respect your time and get you back on the road quickly."
+        "description": "Most repairs completed same-day."
       },
       {
-        "title": "Customer Education",
-        "description": "We explain every repair in simple terms so you can make informed decisions about your car."
+        "title": "Customer Satisfaction Guaranteed",
+        "description": "We stand behind our work with a comprehensive warranty."
       }
     ],
     "testimonials": [
       {
-        "quote": "Sanchez Auto has been taking care of my family's cars for years. Always honest, fair, and thorough.",
+        "quote": "They diagnosed my car's issue in minutes when other shops couldn't. Fair price and great communication.",
         "author": "Mike R.",
-        "role": "Lakewood Resident"
+        "role": "Lakewood resident"
       },
       {
-        "quote": "They diagnosed an issue that two other shops missed. Saved me money and got my car running perfectly.",
-        "author": "Linda T.",
-        "role": "Dallas Homeowner"
+        "quote": "Always honest about what needs to be done. I trust them with all my family's cars.",
+        "author": "Lisa T.",
+        "role": "East Dallas homeowner"
       },
       {
-        "quote": "I appreciate the transparency and the quality of work. My car has never run better.",
+        "quote": "Fast service, friendly staff, and they explained everything clearly. Highly recommend!",
         "author": "James K.",
-        "role": "Uptown Professional"
+        "role": "Uptown professional"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Service?",
-      "subheadline": "Schedule your appointment today and experience the Sanchez difference.",
-      "primaryCta": "Book Now",
+      "headline": "Ready to Experience the Sanchez Difference?",
+      "subheadline": "Schedule your appointment today and get back on the road with confidence.",
+      "primaryCta": "Book Online",
       "secondaryCta": "Call (214) 324-3469"
     }
   },
   "servicesPage": {
-    "intro": "Sanchez Auto Service offers a full range of auto repair and maintenance services in Dallas, TX. From brakes to engines, we've got you covered."
+    "intro": "From routine maintenance to major repairs, Sanchez Auto Service offers comprehensive auto care for all makes and models. Our certified technicians use the latest tools and techniques to keep your vehicle running at its best."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Brake Repair & Replacement",
-      "shortDescription": "Expert brake service to ensure your safety on the road.",
-      "longDescription": "Our brake services include pad replacement, rotor resurfacing, caliper repair, and brake fluid flush. We use high-quality parts to restore stopping power and extend the life of your braking system.",
-      "benefits": [
-        "Enhanced safety with reliable braking",
-        "Reduced noise and vibration",
-        "Longer brake component lifespan"
-      ],
-      "process": [
-        {
-          "title": "Inspection",
-          "description": "We perform a comprehensive brake inspection, checking pads, rotors, calipers, and fluid levels."
-        },
-        {
-          "title": "Repair",
-          "description": "Faulty components are replaced or repaired using OEM-quality parts."
-        },
-        {
-          "title": "Testing",
-          "description": "We test the brakes on the road to ensure optimal performance and safety."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and conditions."
-        },
-        {
-          "question": "Do you offer brake warranties?",
-          "answer": "Yes, all brake services come with a parts and labor warranty for your peace of mind."
-        }
-      ],
-      "slug": "brake-repair-replacement"
-    },
-    {
-      "icon": "02",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert engine repair.",
-      "longDescription": "Using advanced diagnostic tools, we pinpoint engine issues quickly and accurately. Services include check engine light diagnosis, sensor replacement, timing belt service, and more.",
+      "shortDescription": "Expert engine diagnostics and repair using advanced equipment.",
+      "longDescription": "If your check engine light is on or your car is running rough, our technicians will perform a thorough diagnostic to identify the root cause. We repair everything from minor sensor issues to major engine overhauls.",
       "benefits": [
-        "Accurate problem identification",
-        "Efficient repairs save time and money",
-        "Improved engine performance and fuel economy"
+        "Accurate diagnostics with OEM-grade scanners",
+        "Transparent reporting with digital inspection",
+        "Quality parts and workmanship warranty",
+        "Competitive pricing with no surprises"
       ],
       "process": [
         {
-          "title": "Scan & Analyze",
-          "description": "We connect to your vehicle's computer to retrieve trouble codes and data."
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read trouble codes and live data."
         },
         {
-          "title": "Inspect & Test",
-          "description": "Our technicians perform hands-on tests to confirm the root cause."
+          "title": "In-Depth Analysis",
+          "description": "Our technician interprets the data and performs additional tests to confirm the issue."
         },
         {
-          "title": "Repair & Verify",
-          "description": "We complete the repair and re-scan to ensure the issue is resolved."
+          "title": "Repair & Verification",
+          "description": "After your approval, we perform the repair and test drive to ensure everything is perfect."
         }
       ],
       "faqs": [
-        {
-          "question": "What does the check engine light mean?",
-          "answer": "It can indicate anything from a loose gas cap to a serious engine problem. We'll diagnose it accurately."
-        },
         {
           "question": "How long does an engine diagnostic take?",
-          "answer": "Typically 1-2 hours, depending on the complexity of the issue."
+          "answer": "Most diagnostics are completed within one to two hours, depending on the complexity."
+        },
+        {
+          "question": "Do you use genuine parts for repairs?",
+          "answer": "We use OEM-quality or genuine parts to ensure reliability and performance."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "03",
-      "title": "Oil Change & Preventive Maintenance",
-      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
-      "longDescription": "Our oil change service includes high-quality oil and filter replacement, fluid level checks, and a multi-point inspection to catch potential issues early.",
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspections, repairs, and replacements.",
+      "longDescription": "Your safety depends on your brakes. We offer full brake services including pad and rotor replacement, caliper repair, brake fluid flush, and ABS diagnostics.",
       "benefits": [
-        "Extended engine life",
-        "Better fuel efficiency",
-        "Early detection of problems"
+        "Thorough brake inspection included",
+        "High-quality brake components",
+        "Improved stopping power and safety",
+        "Extended brake system life"
       ],
       "process": [
         {
-          "title": "Drain & Replace",
-          "description": "We drain old oil and replace it with the manufacturer-recommended grade."
+          "title": "Brake Inspection",
+          "description": "We check pads, rotors, calipers, lines, and fluid condition."
         },
         {
-          "title": "Filter Change",
-          "description": "A new oil filter is installed to maintain oil cleanliness."
-        },
-        {
-          "title": "Inspection",
-          "description": "We check belts, hoses, fluids, and tire pressure as part of our preventive maintenance."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I get an oil change?",
-          "answer": "Every 5,000 to 7,500 miles for most modern vehicles, or as recommended by your owner's manual."
-        },
-        {
-          "question": "Do you use synthetic oil?",
-          "answer": "Yes, we offer conventional and synthetic oil options to suit your vehicle's needs."
-        }
-      ],
-      "slug": "oil-change-preventive-maintenance"
-    },
-    {
-      "icon": "04",
-      "title": "AC & Heating System Service",
-      "shortDescription": "Keep your cabin comfortable year-round.",
-      "longDescription": "We diagnose and repair air conditioning and heating system issues, including refrigerant recharge, compressor replacement, and heater core repairs.",
-      "benefits": [
-        "Comfortable driving in all seasons",
-        "Improved air quality",
-        "System longevity"
-      ],
-      "process": [
-        {
-          "title": "System Inspection",
-          "description": "We check refrigerant levels, compressor function, and all components."
-        },
-        {
-          "title": "Leak Detection",
-          "description": "Using UV dye and electronic detectors, we find and seal leaks."
+          "title": "Recommendation",
+          "description": "We provide a detailed report and explain what needs attention."
         },
         {
           "title": "Service & Test",
-          "description": "We repair or replace faulty parts, recharge the system, and verify performance."
+          "description": "We perform the work and test the brakes on the road."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak in the system."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 70,000 miles, but it depends on driving habits."
         },
         {
-          "question": "How often should I service my AC?",
-          "answer": "We recommend an AC check every two years to ensure optimal performance."
+          "question": "Do you resurface rotors or replace them?",
+          "answer": "We recommend replacement for optimal performance and safety."
         }
       ],
-      "slug": "ac-heating-system-service"
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Regular oil changes and fluid maintenance to protect your engine.",
+      "longDescription": "Stay on top of your vehicle's maintenance with our oil change services. We use quality oils and filters, and also check and top off all fluids.",
+      "benefits": [
+        "Extends engine life",
+        "Improves fuel economy",
+        "Prevents costly repairs",
+        "Quick 30-minute service"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the oil filter."
+        },
+        {
+          "title": "Refill with Quality Oil",
+          "description": "We add the correct type and amount of oil for your vehicle."
+        },
+        {
+          "title": "Fluid Check & Report",
+          "description": "We check all other fluids and provide a vehicle health report."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic options to match your vehicle's needs."
+        },
+        {
+          "question": "Do you recycle the old oil?",
+          "answer": "Yes, we recycle all used oil and filters responsibly."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "Tire Services & Alignment",
+      "shortDescription": "Tire rotation, balancing, and alignment for a smooth ride.",
+      "longDescription": "Proper tire maintenance ensures safety, fuel efficiency, and longer tire life. We provide tire rotation, balancing, and precision alignment services.",
+      "benefits": [
+        "Even tire wear for longer life",
+        "Better fuel economy",
+        "Improved handling and safety",
+        "Smoother ride"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check tire pressure, tread depth, and overall condition."
+        },
+        {
+          "title": "Rotation & Balancing",
+          "description": "We rotate tires to promote even wear and balance them to eliminate vibrations."
+        },
+        {
+          "title": "Alignment Check",
+          "description": "We measure and adjust camber, caster, and toe to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000 to 7,500 miles, or as recommended in your owner's manual."
+        },
+        {
+          "question": "Do you sell tires?",
+          "answer": "Yes, we can order and install tires from major brands at competitive prices."
+        }
+      ],
+      "slug": "tire-services-alignment"
     }
   ],
   "about": {
-    "headline": "Family-Owned Auto Repair Since 1995",
-    "mission": "To provide honest, high-quality auto repair that keeps Dallas drivers safe and satisfied.",
+    "headline": "Your Trusted Dallas Auto Repair Shop Since 1985",
+    "mission": "To provide honest, high-quality auto repair and maintenance that keeps our community safe on the road.",
     "story": [
-      "Sanchez Auto Service was founded in 1995 by Master Technician Carlos Sanchez with a simple philosophy: treat every customer like family. Starting from a small two-bay shop, Carlos built a reputation for honest diagnostics and fair pricing. Over the years, the business grew as word spread about the team's dedication to quality.",
-      "Today, Sanchez Auto Service continues that tradition with a team of experienced mechanics who share the same values. We invest in the latest diagnostic equipment and ongoing training to serve the evolving needs of modern vehicles. Whether it's a simple oil change or a complex engine repair, we approach every job with the same commitment to excellence."
+      "Sanchez Auto Service was founded in 1985 by Carlos Sanchez, a master mechanic with a passion for cars and a commitment to integrity. What started as a small two-bay shop has grown into a full-service auto repair center trusted by thousands of Dallas drivers. Carlos's philosophy was simple: treat every customer like family and every car like it's your own.",
+      "Today, his son Miguel carries on that tradition. Our team of ASE-certified technicians continues to deliver the same honest service and expert repairs that have been our hallmark for over three decades. We invest in the latest diagnostic technology and ongoing training to ensure we can handle any vehicle—from a 1990s sedan to the latest luxury SUV."
     ],
     "highlight": {
-      "stat": "25+",
-      "label": "Years of Trusted Service"
+      "stat": "35+",
+      "label": "Years of Service in Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs — and what it doesn't."
+        "description": "We always tell you what your car needs—and what it doesn't."
       },
       {
         "title": "Quality",
@@ -285,30 +289,30 @@
       },
       {
         "title": "Community",
-        "description": "We proudly serve Dallas and support local causes."
+        "description": "We're proud to be a local business serving our neighbors."
       },
       {
-        "title": "Transparency",
-        "description": "Clear estimates and open communication every step of the way."
+        "title": "Continuous Improvement",
+        "description": "We stay current with the latest automotive technology and training."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Visit us or call to schedule your next service.",
+    "headline": "Get in Touch with Sanchez Auto Service",
+    "subheadline": "Ready to schedule your service? Call us or fill out the form below.",
     "primaryCta": "Call (214) 324-3469",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Lakewood",
+      "East Dallas",
       "Uptown",
-      "Oak Lawn",
       "Highland Park",
-      "Mockingbird Station"
+      "University Park"
     ]
   },
   "social_proof": {
-    "rating": 3.2,
+    "rating": "",
     "reviews": null
   },
   "meta": {
